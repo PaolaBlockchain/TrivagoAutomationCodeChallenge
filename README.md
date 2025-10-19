@@ -3,6 +3,7 @@
 ## Overview
 This project automates functional testing of the **Trivago** website using **Java, Selenium WebDriver, and TestNG** within a **Maven** structure.  
 It validates search functionality and hotel filtering features such as **Wi-Fi availability** and **Spa facilities**, demonstrating the use of **Page Object Model (POM)** and **explicit waits**.
+Project date: 2023
 
 ---
 
